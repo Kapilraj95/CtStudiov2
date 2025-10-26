@@ -1,4 +1,6 @@
 streamlit
-scipy>=1.3.0
+scipy
 numpy
 pandas
+matplotlib
+
